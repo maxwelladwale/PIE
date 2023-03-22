@@ -34,9 +34,9 @@
                                                 <h4 style="	color: #23387E;">Who We Are</h4>
                                             </div>
                                             <div class="description">
-                                                <p>A complete manufacturing solution for parts of any construction material </p>
-                                                <p>Headquartered in eastern Washington State since 1998, we are a national leader in advanced machining and fabrication </p>
-                                                <p>From single item orders to a production run of several thousand, we fabricate precision parts for any market sector and produce custom components from customer design to product delivery </p>
+                                                <p>PIE is an industrial equipment design, fabrication, and integration company </p>
+                                                <p>With superior engineering services and ability to integrate multiple pieces of technology into one line, </p>
+                                                <p>PIE provides universal services from design to delivery. PIE’s industrial lines can receive and palletize any product for a ready-to-ship solution</p>
                                             </div>
                                         </div>
                                         <div class="rightbox">
@@ -44,18 +44,19 @@
                                                 <div class="list_wrap">
                                                     <ul style="border-left: 2px solid #47A1DE; height: 100%;position: relative;">
                                                         <li class="">
-                                                            <h5>Customer Centric</h5>
-                                                            <p>Customers are at the center of everything we do. We stand behind our work and guarantee customer satisfaction </p>
+                                                            <h5>Design & Engineering Expertise </h5>
+                                                            <p>Our engineers employ Solid Works 3D drawings and AutoCAD technology to design custom integrated systems and increase efficiency through automation</p>
                                                         </li>
 
                                                         <li class="">
-                                                            <h5>Complete Manufacturing Solution </h5>
-                                                            <p>Our craftsmen manufacture the highest quality end items made of any industrial material from customer design to product delivery </p>
+                                                            <h5>Custom Fabrication & Control System Production</h5>
+                                                                <p>PIE stands above its competition with the highest-grade materials and custom services, from laser cutting of individual metals to designing control systems for complex integrated lines </p>
                                                         </li>
 
+
                                                         <li class="">
-                                                            <h5>Partners with Integrity </h5>
-                                                            <p>Honest and truthful in what we say and do, we prioritize integrity above all else </p>
+                                                            <h5>Systems Integration </h5>
+                                                            <p>With decades of industrial automation expertise, PIE integrates multiple processes, technologies, and equipment lines to provide a turnkey solution </p>
                                                         </li>
 
                                                     </ul>
@@ -74,41 +75,41 @@
                         <div class="themesflat-row separator drank clearfix">
                             <div class="span_1_of_6 separator-solid">
                                 <div class="flat-content-wrap pd26 h-one">
-                                    <div class="title">1998 </div>
-                                    <p style="padding-bottom: 32px;">PCT founded in Spokane, Washington</p> 
+                                    <div class="title">2013 </div>
+                                    <p style="padding-bottom: 32px;">PIE founded in Spokane, Washington</p>
                                 </div>
                                 <div class="flat-content-wrap pd26 h-two">
-                                    <div class="title">2006</div>
-                                    <p>PCT grew in size and scope by moving into a larger facility to add laser cutting, welding, CNC machining, and forming </p>
+                                    <div class="title">2018</div>
+                                    <p>Patrick Flumerfelt acquires SMK Tri-Cities, bringing field installation synergies to PIE and gaining additional fabrication capabilities</p>
                                 </div>
                             </div>
                             <div class="span_1_of_6 separator-solid">
                                 <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35" style="height:0px"></div>
                                 <div class="flat-content-wrap pd26 h-three">
-                                    <div class="title">2018</div>
-                                    <p>PCT purchased L&M Precision Fabrication, adding in-house powder coating and hardware insertion services</p>
-                                </div>
-                                <div class="flat-content-wrap pd26 h-four">
                                     <div class="title">2022</div>
-                                    <p>PCT acquired by a strategic investment group with proven success in expanding customer relations and driving operational performance</p>
+                                    <p>PIE partners with a strategic investment group with proven success in expanding customer relations and driving operational performance</p>
                                 </div>
+
                             </div>
                         </div>
                     </div>
 
-                    <div class="glax_tm_section"> 
+                    <div class="glax_tm_section">
                         <div class="">
 
                             <div class="leader-det">
-                                <h3 class="title" style="text-align: center;">Leadership</h3>
+                                <h3 class="title" style="text-align: center;"> PIE Leadership</h3>
                                 <div class="all-leader-cont">
                                     <div class="single-leader-cont">
-                                        
-                                        <img src="<?php echo get_template_directory_uri();?>/assets/img/about/LES-JANEZ.jpg" alt="" class="l-thumbnail">
+
+                                        <img src="<?php echo get_template_directory_uri(); ?>/assets/img/about/Patrick.jpg" alt="" class="l-thumbnail">
                                         <div class="main_definitions" style="display: flex; flex-direction: column;">
-                                            <h3>LES JANZEN</h3>
-                                            <h4> General Manager</h4>
-                                            <p style="margin-bottom: 1rem;">Mr. Janzen joined PCT in 2017 and brings 25 years of operations and lean manufacturing experience.  Prior to joining PCT, Mr. Janzen was the Operations Manager for AMX by Harman, an audio and video distribution equipment manufacturer.  He also worked for Sunshine Minting Inc, a leading supplier of precious metal and base metal mint products, supplying silver and gold blanks to the US Mint and private mints around the world.Mr. Janzen is an experienced professional in financial accounting, budgeting, departmental reconciliation, program management, quality engineering, and lean manufacturing.  He earned his BA from Eastern Washington University.</p>
+                                            <h3>PATRICK FLUMERFELT</h3>
+                                            <h4> President</h4>
+                                            <p style="margin-bottom: 1rem;">Mr. Flumerfelt founded PIE in 2013 and brings over 20 years of industrial engineering and manufacturing experience. At PIE, Mr. Flumerfelt presides over all operations and provides strategic oversight to deliver full-service equipment and design custom integrated systems.
+                                                In 2018, Mr. Flumerfelt acquired SMK Tri-Cities to synergize field installation and gain additional fabrication capabilities. Mr. Flumerfelt guided SMK to double digit growth year over year until he divested his majority share in 2022.
+                                                Mr. Flumerfelt received a BS in Mechanical Engineering from Washington State University.
+                                            </p>
                                             <a href="mailto:jporter@smktricities.com">
                                                 <svg style="width: 32px; height: 32px; color: #23387E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                                     <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
@@ -119,18 +120,21 @@
 
                                     </div>
                                     <div class="single-leader-cont">
-                                        <img src="<?php echo get_template_directory_uri();?>/assets/img/about/BRIAN-BOONE.jpg" alt="" class="l-thumbnail">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/assets/img/about/Dusty.jpg" alt="" class="l-thumbnail">
                                         <div class="main_definitions" style="display: flex; flex-direction: column;">
-                                            <h3>BRIAN BOONE</h3>
-                                            <h4>Sales Leader</h4>
-                                            <p style="margin-bottom: 1rem;">Mr. Boone joined PCT in 2019 and has over 30 years of industrial, manufacturing, and distribution sales experience with a proven track record. Prior to joining PCT, Mr. Boone was the Sales Manager for Screentek, a leader in manufacturing custom, high-performance printed graphics. He also worked as a Sales Manager for Laird Plastics, the largest plastics distributor in the US.In addition to his sales, marketing, and management experience, Mr. Boone holds an associate degree in Sales and Marketing from Santa Fe Community College. </p>
+                                            <h3>DUSTY ALVES</h3>
+                                            <h4>Director, Client Relations & Sales Operations</h4>
+                                            <p style="margin-bottom: 1rem;">Mr. Alves joined PIE in June of 2022 as the Director of Client Relations & Sales Operations. In this role, Mr. Alves directs client relations and business development.
+                                                Prior to joining the Dahlonega Group, Mr. Alves was the Director of Client Relations of EcoDigital, an industry leader in digital signage services and solutions. Before his time with EcoDigital, Mr. Alves was the Manager of Inside Sales at Oracle and Front Porch Digital. During his tenure at Front Porch Digital, Oracle, and EcoDigital, he generated millions of dollars in revenue from the support renewal stream.
+                                                Mr. Alves received a BA in Telecommunications from the University of Nebraska - Kearney.
+                                            </p>
                                             <a href="mailto:jporter@smktricities.com">
                                                 <svg style="width: 32px; height: 32px; color: #23387E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                                     <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
                                                 </svg>
                                                 <span>bboone@pctmfg.com</span>
                                             </a>
-                                        </div> 
+                                        </div>
 
                                     </div>
                                 </div>
@@ -141,7 +145,7 @@
                                             <h3>Careers</h3>
                                         </div>
                                         <div class="">
-                                            <p>PCT is hiring qualified craftsmen. We dedicate ourselves to providing superior service to our customers and a rewarding work environment for our employees.</p>
+                                            <p>PIE is hiring qualified craftsmen. We dedicate ourselves to providing superior service to our customers and a rewarding work environment for our employees.</p>
                                         </div>
                                         <div class="button" style="margin-top: 20px;">
                                             <a href="/contact-us" id="send_message">Apply Now</a>
