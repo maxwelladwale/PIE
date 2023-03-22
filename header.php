@@ -257,7 +257,7 @@
 					<div class="drop_list message">
 						<div class="short_contact">
 							<h3 class="title">Request a Quote</h3>
-							<p class="subtitle">PCT is committed to providing the highest level of customer service. Please complete the following form and click the “Send Message” button. We look forward to assisting you</p>
+							<p class="subtitle">PIE is committed to providing the highest level of customer service. Please complete the following form and click the “Send Message” button. We look forward to assisting you</p>
 							<div class="inputs_wrap">
 								<?php echo do_shortcode( '[contact-form-7 id="112" title="Request Form"]' ); ?>
 
