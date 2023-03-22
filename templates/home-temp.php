@@ -20,7 +20,7 @@
 
                             <div class="texts_wrap">
 
-                                <h3>PCT</h3>
+                                <h3>PIE</h3>
 
                                 
 
@@ -93,7 +93,7 @@
 
                     <div class="texts_wrap" >
 
-                        <h3 style="display:none;">PCT</h3>
+                        <h3 style="display:none;">PIE</h3>
 
                         <p style="display:none;">Industrial equipment services and fabrication from line design to end items</p>
 
@@ -147,8 +147,8 @@
                             <h3 class="title">Our Company</h3>
 
                             <p class="text">
-                            Headquartered in eastern Washington State since 1998, we are a national leader in advanced machining and fabrication. From single item orders to a production run of several thousand, PCT is a complete manufacturing solution for parts of any construction material.
-                            We fabricate precision parts for any market sector and produce custom components from customer design to product delivery
+                            Headquartered in eastern Washington State since 2013, we are a national leader in industrial equipment engineering, fabrication, and integration. 
+                            With superior engineering services and ability to integrate multiple pieces of technology into one line, PIE provides universal services from design to delivery. PIE’s industrial lines can receive and palletize any product for a ready-to-ship solution
                             </p>
 
                         </div>
@@ -157,7 +157,7 @@
 
                             <div class="top">
 
-                                <p>National Leader in Machining and Parts Manufacturing</p>
+                                <p>National Leader in Engineering and Integration</p>
 
                             </div>
 
@@ -165,7 +165,7 @@
 
                                 <div class="number">
 
-                                    <span>25</span>
+                                    <span>10</span>
 
                                 </div>
 
@@ -220,36 +220,36 @@
                                 <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/machine.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>CNC Machining</h3>
+                                <h3>Machine Cutting</h3>
                             </div>
                             <div class="description">
-                                <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.001</p>
+                                <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.003”</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/laser.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/field-inst.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Laser Cutting</h3>
+                                <h3>Field Installation</h3>
                             </div>
                             <div class="description">
-                                <p>Our CNC laser cutting machines provide ultra-high precision and accuracy within +/- 0.005“ to manufacture top quality parts</p>
+                                <p>Industrial processing from equipment setting, transitions and chutes, conveyors, catwalk and stairs, air handling systems, piping, and tanks</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/powder.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/prototyping.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Welding & Fabrication</h3>
+                                <h3>Custom Prototyping</h3>
                             </div>
                             <div class="description">
-                                <p>We use MIG & TIG welding for accurate and efficient production of light gauge sheet metal shapes for commercial and industrial uses</p>
+                                <p>We have a crew dedicated to equipment design, testing, and commissioning to turn equipment ideas from concept to reality</p>
                             </div>
                         </div>
                     </li>
@@ -257,39 +257,39 @@
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/cnc-punching.png" alt="" style="width: 50px; height: 40px;" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/punching.png" alt="" style="width: 40px; height: 40px;" />
                             </div>
                             <div class="title_holder">
-                                <h3> CNC Punching & Forming </h3>
+                                <h3>Industrial Equipment</h3>
                             </div>
                             <div class="description">
-                                <p>We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling</p>
+                                <p>We leverage a fully equipped fabrication shop capable of shearing, roll forming, break forming, MIG & TIG welding, drilling, and punching</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/waterjet.jpg" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/prod-lines.png" alt="" style="width:40px height:40px"/>
                             </div>
                             <div class="title_holder">
-                                <h3>Waterjet Cutting</h3>
+                                <h3>Production Lines</h3>
                             </div>
                             <div class="description">
-                                <p>Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification</p>
+                                <p>We pride ourselves on expert fabrication and installation of custom receiving lines and sanitary piping systems for any industrial setting</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/powder-coat.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/design.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Powder Coat</h3>
+                                <h3>Design and Drafting</h3>
                             </div>
                             <div class="description">
-                                <p>Our powder coating professionals provide a high-quality finish for a more polished and durable product</p>
+                                <p>Our skilled mechanical engineers employ CAD technology to design end items and CNC machined parts, providing custom solutions to our customers</p>
                             </div>
                         </div>
                     </li>
@@ -299,26 +299,26 @@
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/metalfinishing.png" alt="" style="width: 40px; height: 40px;"/>
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/powder.png" alt=""/>
                             </div>
                             <div class="title_holder">
-                                <h3>Metal Finishing</h3>
+                                <h3>Custom Metal Design</h3>
                             </div>
                             <div class="description">
-                                <p>We offer metal graining to remove burrs and sharp edges, creating a uniform finish for parts up to 36” wide. We also provide grinding, tumbling, and sand blasting</p>
+                                <p>We manufacture any type of custom end item and design products for custom fabrication</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/punching.png" alt="" style="width: 40px; height: 40px;"/>
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/proj-mng.png" alt=""/>
                             </div>
                             <div class="title_holder">
-                                <h3>Hardware & Assembly</h3>
+                                <h3>Project Management</h3>
                             </div>
                             <div class="description">
-                                <p>We install pems, studs, latches, doors, and hinges to provide a custom turnkey assembly</p>
+                                <p>We provide project management for large capital projects and our services with our skilled leadership, foremen, and estimators</p>
                             </div>
                         </div>
                     </li>
@@ -339,17 +339,18 @@
                 <div class="inner">
                     <div class="leftbox" style="min-height: 465.875px;">
                         <div class="title">
-                            <h3>National Leader in Parts Manufacturing</h3>
+                            <h3>National Leader in Engineering and Integration</h3>
                         </div>
                         <div class="text">
                             <p>
-                            We are a national leader in parts manufacturing. Our team fabricates precision parts for any market sector and produces custom components from customer design to delivery. We manufacture the highest quality end items made of any industrial material.
+                            We are a national leader in industrial equipment design, fabrication, and integration. With decades of industrial automation expertise, PIE integrates multiple processes, technologies,
+                             and equipment lines to provide a turnkey solution. PIE stands above its competition with the highest-grade materials and custom services, from laser cutting of individual metals to designing control systems for complex integrated lines.
                             </p>
                         </div>
                         
                     </div>
                     <div class="ratingbox">
-                        <a href="https://www.google.com/search?q=precision+cutting+technologies&rlz=1C1GCEU_enKE1028KE1028&oq=Precision+Cutting+Techno&aqs=chrome.0.0i19i512j69i57j0i19i512l2j0i19i22i30l2j69i61.12012j0j7&sourceid=chrome&ie=UTF-8">
+                        <a href="https://www.google.com/search?q=precision+industrial+equipment&rlz=1C1GCEU_enKE1028KE1028&oq=precision+industrial+equ&aqs=chrome.0.0i19i512j69i57j0i19i22i30l3j69i60l3.10773j0j7&sourceid=chrome&ie=UTF-8#">
                         <div class="rating_wrap">
                             <div class="inner_wrap">
                                 <div class="star">
@@ -391,7 +392,7 @@
                                     <h3>Customer Quotes</h3>
                                 </div>
                                 <div class="description">
-                                    <p>Companies around the nation rely on PCT for their advanced machining and fabrication needs</p>
+                                    <p>Companies around the nation rely on PIE for their advanced machining and fabrication needs</p>
                                 </div>
                             </div>
                         </div>

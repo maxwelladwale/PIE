@@ -885,7 +885,7 @@ img.svg{
 	clear: both;
 	float: left;
 	background-color: #23387E;
-	padding: 20px 0px;
+	padding: 0px 0px;
 }
 .glax_tm_mobile_bar_wrap .mobile_header_wrap .inner_wrap{
 	display: flex;
@@ -5940,7 +5940,7 @@ iframe{
 
  
   .mobi-logo{
-	max-width: 35% !important;
+	max-width: 50% !important;
   }
 
   .who_we_are .list_wrap ul li{

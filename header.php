@@ -89,7 +89,7 @@
 						<a href="<?php get_template_directory_uri();?>/contact-us">Contact Us</a>
 					</div>
 					<div class="logo_wrap">
-						<img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/logo.png" alt="" />
+						<img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/logo.png" alt="" style="max-width: 150%;"/>
 						<span class="left"></span>
 						<span class="right"></span>
 						<span class="extra_first"></span>
