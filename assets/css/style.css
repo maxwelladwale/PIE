@@ -2123,7 +2123,7 @@ img.svg{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-	background-image: url(../img/logo.webp);
+	background-image: url(../img/PIE_logo.webp);
 }
 
 /*------------------------------------------------------------------*/ 
@@ -5454,7 +5454,7 @@ iframe{
 	background-repeat: no-repeat;
 	background-position: center;
 }
-.glax_tm_main_contact_wrap .office_list ul li:nth-child(1) .image_wrap .image{background-image: url(..//img/contact/PIE-logo.webp);}
+.glax_tm_main_contact_wrap .office_list ul li:nth-child(1) .image_wrap .image{background-image: url(../img/PIE-logo.webp);}
 .glax_tm_main_contact_wrap .office_list ul li:nth-child(2) .image_wrap .image{background-image: url(..//img/contact/2.jpg);}
 .glax_tm_main_contact_wrap .office_list ul li:nth-child(3) .image_wrap .image{background-image: url(..//img/contact/3.jpg);}
 .glax_tm_main_contact_wrap .office_list ul li .definitions_wrap{

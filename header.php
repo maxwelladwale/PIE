@@ -82,7 +82,8 @@
 							<li><a href="<?php echo home_url();?>">Home</a></li>
 							<li><a href="<?php get_template_directory_uri();?>/about-us">About Us</a></li>
 							<li><a href="<?php get_template_directory_uri();?>/services">Services</a></li>
-							<li><a href="<?php get_template_directory_uri();?>/parts">Parts</a></li>
+							<li><a href="<?php get_template_directory_uri();?>/equipment">Equipment</a></li>
+							<li><a href="<?php get_template_directory_uri();?>/projects">Projects</a></li>
 						</ul>
 					</div>
 					<div class="purchase_button">
@@ -148,8 +149,8 @@
 					<li><a href="<?php echo home_url();?>">Home</a></li>
 					<li><a href="<?php get_template_directory_uri();?>/about-us">About Us</a></li>
 					<li><a href="<?php get_template_directory_uri();?>/services">Services</a></li>
-					<li><a href="<?php get_template_directory_uri();?>/parts">Parts</a></li>
-					<li><a href="<?php get_template_directory_uri(); ?>/contact-us">Contact Us</a></li>
+					<li><a href="<?php get_template_directory_uri();?>/equipment">Equipment</a></li>
+					<li><a href="<?php get_template_directory_uri();?>/projects">Projects</a></li>
 
 				</ul>
 			</div>
@@ -248,9 +249,9 @@
 							</div>
 							<div class="definitions_wrap">
 								<h3>Washington Headquarters</h3>
-								<p>1611 N Molter Rd Ste. 202, Liberty Lake, WA 99019</p>
-								<p>Phone: (509) 922-8755</p>
-								<p><span>Email:</span><a href="mailto:sales@pctmfg.com">sales@pctmfg.com</a></p>
+								<p>8100 Postma Rd, Moxee, WA 98936</p>
+								<p>Phone: (509) 492-3392</p>
+								<p><span>Email:</span><a href="mailto:sales@precisionie.com">sales@precisionie.com</a></p>
 							</div>
 						</div>
 					</div>
@@ -270,7 +271,7 @@
 								<img src="img/estimate/call.png" alt="" />
 							</div>
 							<h3>Call Us</h3>
-							<p>(509) 922-8755</p>
+							<p>(509) 492-3392</p>
 						</div>
 					</div>
 					<div class="drop_list clock">

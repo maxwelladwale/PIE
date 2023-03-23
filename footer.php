@@ -57,7 +57,7 @@
 
 												<p>
 
-												Headquartered in eastern Washington State since 1998, we are a national leader in advanced machining and fabrication. From single item orders to a production run of several thousand, PCT is a complete manufacturing solution for parts of any construction material. We fabricate precision parts for any market sector and produce custom components from the design phase to delivery
+												Headquartered in eastern Washington State since 2013, we are a national leader in industrial equipment engineering, fabrication, and integration. With superior engineering services and ability to integrate multiple pieces of technology into one line, PIE provides universal services from design to delivery. PIE’s industrial lines can receive and palletize any product for a ready-to-ship solution
 
 												</p>
 
@@ -89,7 +89,7 @@
 													</li>
 													<li>
 														<div class="wrap">
-															<span class="left">1611 N Molter Rd Ste. 202, Liberty Lake, WA 99019</span>
+															<span class="left">8100 Postma Rd, Moxee, WA 98936</span>
 														</div>
 													</li>
 												</ul>
@@ -111,19 +111,19 @@
 															<li style="width:100%;">
 																<p class="wrapss">
 																	<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/old_phone.png" alt="">
-																	<span class="left" style="padding-left:2em;">(509) 922-8755</span>
+																	<span class="left" style="padding-left:2em;">(509) 492-3392</span>
 																</p>
 															</li>
-															<li style="width:100%;">
+															<!-- <li style="width:100%;">
 																<p class="wrapss">
 																	<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/fax.png" alt="">
 																	<span class="left" style="padding-left:2em;">(509) 922-8746</span>
 																</p>
-															</li>
+															</li> -->
 															<li style="width:100%;">
 																<p class="wrapss">
 																	<img class="svg" src="<?php echo esc_url( get_template_directory_uri() ) ;?>/assets/img/svg/message2.svg" alt="" />
-																	<span class="left" style="padding-left:2em;">sales@pctmfg.com</span>
+																	<span class="left" style="padding-left:2em;">sales@precisionie.com</span>
 																</p>
 															</li>
 															<li style="width:100%;">
@@ -154,8 +154,8 @@
 							<li><a href="<?php echo esc_url( home_url() );?>">Home</a></li>
 							<li><a href="<?php get_template_directory_uri();?>/about-us">About Us</a></li>
 							<li><a href="<?php get_template_directory_uri();?>/services">Services</a></li>
-							<li><a href="<?php get_template_directory_uri();?>/parts">Parts</a></li>
-							<li><a href="<?php get_template_directory_uri(); ?>/contact-us">Contact Us</a></li>
+							<li><a href="<?php get_template_directory_uri();?>/equipment">Equipment</a></li>
+							<li><a href="<?php get_template_directory_uri();?>/projects">Projects</a></li>
 						</ul>
 					</div>
 					<div class="copyright">
