@@ -14,7 +14,7 @@
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4135.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0704_FullRes-min-min.webp"></div>
 
                         <div class="swiper_content">
 
@@ -31,51 +31,81 @@
 
                     </div>
 
+                    <!-- <div class="image_wrap swiper-slide">
+
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0704_FullRes-min-min.webp"></div>
+
+                    </div> -->
+
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4237.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0647_FullRes-min.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4359.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0996_FullRes-min-min.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4215.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0594_FullRes.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4286.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/_DSC0474_FullRes-min-min.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4298.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/_DSC1012_FullRes-min-min.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4300.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0499_FullRes.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4252.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/_DSC0475_FullRes-min-min.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider__DSC4450.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/D79T8848-min-min.webp"></div>
+
+                    </div>
+
+                    <div class="image_wrap swiper-slide">
+
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0447_FullRes.webp"></div>
+
+                    </div>
+
+                    <div class="image_wrap swiper-slide">
+
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/_DSC0569_FullRes-min-min.webp"></div>
+
+                    </div>
+
+                    <div class="image_wrap swiper-slide">
+
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0545_FullRes.webp"></div>
+
+                    </div>
+
+                    <div class="image_wrap swiper-slide">
+
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0489_FullRes.webp"></div>
 
                     </div>
 
@@ -392,7 +422,7 @@
                                     <h3>Customer Quotes</h3>
                                 </div>
                                 <div class="description">
-                                    <p>Companies around the nation rely on PIE for their advanced machining and fabrication needs</p>
+                                    <p>Companies around the nation rely on PIE for their industrial equipment design, fabrication, and integration needs</p>
                                 </div>
                             </div>
                         </div>
