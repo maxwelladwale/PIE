@@ -1,5 +1,9 @@
-<?php /* Template Name: Contact Page */ get_header(); ?>
+<?php
+/* Template Name: Contact Page */
 
+get_header();
+
+?>
 <script>
     const element = document.getElementById("navh");
     // element.innerHTML = '<div class="glax_tm_header_wrap" data-style="light" data-position="absolute">';
@@ -25,7 +29,7 @@
 			<div class="container">
 
 			<p style="padding-bottom: 20px;">
-			PCT is committed to providing the highest level of customer service. Please complete the following form and click the “Send Message” button. We look forward to assisting you.
+			PIE is committed to providing the highest level of customer service. Please complete the following form and click the “Send Message” button. We look forward to assisting you.
 			</p>
 
 				<div class="glax_tm_main_contact_wrap">
@@ -48,7 +52,7 @@
 										</div>
 										<div class="short_info_wrap">
 											<div class="row">
-												<p>1611 N Molter Rd Ste.202, Liberty Lake, WA 99019</p>
+												<p>8100 Postma Rd, Moxee, WA 98936</p>
 											</div>
 											<div class="row">
 												<label>Phone:</label>
@@ -63,7 +67,7 @@
 								</div>
 							</li>
 							<li class="mymap">
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2686.5948492424245!2d-117.0931906491538!3d47.67286659128954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5361dfd6ae9d705d%3A0x444a60f37356194!2sPrecision%20Cutting%20Technologies!5e0!3m2!1sen!2ske!4v1677733202655!5m2!1sen!2ske" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2743.296995720797!2d-120.39576608373656!3d46.56159186756778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5499d51df1313de9%3A0x56a6348577f8d1e1!2sPrecision%20Industrial%20Equipment!5e0!3m2!1sen!2ske!4v1679475493526!5m2!1sen!2ske" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							</li>
 						</ul>
 					</div>
@@ -72,7 +76,7 @@
 					
 					<div class="contact_text">
 						<p>
-						We are a national leader in parts manufacturing. Our team fabricates precision parts for any market sector and produces custom components from customer design to product delivery. We manufacture the highest quality end items made of any industrial material.
+						We are a national leader in industrial equipment design, fabrication, and integration. With decades of industrial automation expertise, PIE integrates multiple processes, technologies, and equipment lines to provide a turnkey solution. PIE stands above its competition with the highest-grade materials and custom services, from laser cutting of individual metals to designing control systems for complex integrated lines.
 						</p>
 					</div>
 
