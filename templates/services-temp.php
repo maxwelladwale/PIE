@@ -1,4 +1,8 @@
-<?phP /* Template Name: Services Page */ get_header(); ?>
+<?php /* Template Name: Services Page */
+
+get_header();
+
+?>
 
     <!-- SERVICES-->
 
@@ -47,7 +51,7 @@
                         <div class="glax_tm_service_title_holder">
 
                             <p style="color: black;">
-                            Our craftsmen manufacture the highest quality end items made of any industrial material from customer design to product delivery
+                                Our craftsmen manufacture the highest quality end items made of any industrial material from design to product delivery
                             </p>
 
                         </div>
@@ -68,9 +72,9 @@
 
                                             <div class="title_holder">
 
-                                                <h3>CNC Machining</h3>
+                                                <h3>Field Installation</h3>
 
-                                                <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.001</p>
+                                                <p>Industrial processing from equipment setting, transitions and chutes, conveyors, catwalks and stairs, air handling systems, piping, and tanks</p>
 
                                             </div>
 
@@ -80,7 +84,7 @@
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4300.jpg" data-group="1" class="galleryItem 101">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSCX.jpg" data-group="1" class="galleryItem 101">See Gallery</a>
 
                                             </div>
 
@@ -104,9 +108,9 @@
 
                                             <div class="title_holder">
 
-                                                <h3>CNC Punching & Forming</h3>
+                                                <h3>Custom Prototyping</h3>
 
-                                                <p>We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling</p>
+                                                <p>We have a crew dedicated to equipment design, testing, and commissioning to turn equipment ideas from concept to reality</p>
 
                                             </div>
 
@@ -140,9 +144,9 @@
 
                                             <div class="title_holder">
 
-                                                <h3>Laser Cutting</h3>
+                                                <h3>Industrial Equipment</h3>
 
-                                                <p>Our CNC laser cutting machines provide ultra-high precision and accuracy within +/- 0.005“ to manufacture top quality parts </p>
+                                                <p>We leverage a fully equipped fabrication shop capable of shearing, roll forming, break forming, MIG & TIG welding, drilling, and punching</p>
 
                                             </div>
 
@@ -176,9 +180,9 @@
 
                                             <div class="title_holder">
 
-                                                <h3>Waterjet Cutting</h3>
+                                                <h3>Production Lines</h3>
 
-                                                <p>Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification</p>
+                                                <p>We pride ourselves on expert fabrication and installation of custom receiving lines and sanitary piping systems for any industrial setting</p>
 
                                             </div>
 
@@ -212,9 +216,9 @@
 
                                             <div class="title_holder">
 
-                                                <h3>Welding & Fabrication </h3>
+                                                <h3>Design and Drafting </h3>
 
-                                                <p>We use MIG & TIG welding for accurate and efficient production of light gauge sheet metal shapes for commercial and industrial uses</p>
+                                                <p>Our skilled mechanical engineers employ CAD technology to design end items and CNC machined parts, providing custom solutions to our customers</p>
 
                                             </div>
 
@@ -250,9 +254,9 @@
 
                                             <div class="title_holder">
 
-                                                <h3>Powder Coat</h3>
+                                                <h3>Custom Metal Design</h3>
 
-                                                <p>Our powder coating professionals provide a high-quality finish for a more polished and durable product</p>
+                                                <p>We manufacture any type of custom end item and design products for custom fabrication</p>
 
                                             </div>
 
@@ -288,9 +292,9 @@
 
                                             <div class="title_holder">
 
-                                                <h3>Metal Finishing</h3>
+                                                <h3>Project Management</h3>
 
-                                                <p>We offer metal graining to remove burrs and sharp edges, creating a uniform finish for parts up to 36” wide. We also provide grinding, tumbling, and sand blasting</p>
+                                                <p>We provide project management for large capital projects and our services with our skilled leadership, foremen, and estimators</p>
 
                                             </div>
 
@@ -301,42 +305,6 @@
                                             <div class="read_more_in">
 
                                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4425.jpg" data-group="8" class="galleryItem 808">See Gallery</a>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                </li>
-
-                                <li>
-
-                                    <div class="inner servicev">
-
-                                        <div class="list_image_wrap">
-
-                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4359.jpg"></div>
-
-                                        </div>
-
-                                        <div class="main_infos">
-
-                                            <div class="title_holder">
-
-                                                <h3>Hardware & Assembly </h3>
-
-                                                <p>We install pems, studs, latches, doors, and hinges to provide a custom turnkey assembly </p>
-
-                                            </div>
-
-                                        </div>
-
-                                        <div class="glax_tm_shape_read_more_wrap">
-
-                                            <div class="read_more_in">
-
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4359.jpg" data-group="7" class="galleryItem 707">See Gallery</a>
 
                                             </div>
 
@@ -370,7 +338,7 @@
 
                                             <div class="icon">
 
-                                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/file-pdf.svg" alt="" />
+                                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/file-pdf.svg" alt="Precision Industrial Equipment" />
 
                                             </div>
 
@@ -406,7 +374,7 @@
 
     </div>
 
-    <!-- CNC Machining -->
+    <!-- Field Installation -->
 
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4289.jpg" data-group="1" class="galleryItem 101"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4293.jpg" data-group="1" class="galleryItem 101"></a>
@@ -420,7 +388,7 @@
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4325.jpg" data-group="1" class="galleryItem 101"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4330.jpg" data-group="1" class="galleryItem 101"></a>
 
-    <!-- CNC Punching & Forming -->
+    <!-- Custom Prototyping -->
 
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4097.jpg" data-group="2" class="galleryItem 202"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4099.jpg" data-group="2" class="galleryItem 202"></a>
@@ -432,7 +400,7 @@
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4389.jpg" data-group="2" class="galleryItem 202"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4399.jpg" data-group="2" class="galleryItem 202"></a>
 
-    <!-- Laser Cutting  -->
+    <!-- Industrial Equipment  -->
 
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4155.jpg" data-group="3" class="galleryItem 303"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4158.jpg" data-group="3" class="galleryItem 303"></a>
@@ -445,7 +413,7 @@
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4355.jpg" data-group="3" class="galleryItem 303"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4425.jpg" data-group="3" class="galleryItem 303"></a>
 
-    <!-- Waterjet Cutting  -->
+    <!-- Production Lines  -->
 
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4205.jpg" data-group="4" class="galleryItem 404"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4206.jpg" data-group="4" class="galleryItem 404"></a>
@@ -455,7 +423,7 @@
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4337.jpg" data-group="4" class="galleryItem 404"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4379.jpg" data-group="4" class="galleryItem 404"></a>
 
-    <!-- Welding & Fabrication -->
+    <!-- Design and Drafting -->
 
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4103.jpg" data-group="5" class="galleryItem 505"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4105.jpg" data-group="5" class="galleryItem 505"></a>
@@ -472,7 +440,7 @@
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4281.jpg" data-group="5" class="galleryItem 505"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4411.jpg" data-group="5" class="galleryItem 505"></a>
 
-    <!-- Powder Coat  -->
+    <!-- Custom Metal Design  -->
 
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4148.jpg" data-group="6" class="galleryItem 606"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4153.jpg" data-group="6" class="galleryItem 606"></a>
@@ -483,7 +451,7 @@
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4464.jpg" data-group="6" class="galleryItem 606"></a>
 
 
-    <!-- Metal Finishing -->
+    <!-- Project Management-->
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4155.jpg" data-group="8" class="galleryItem 808"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4170.jpg" data-group="8" class="galleryItem 808"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4365.jpg" data-group="8" class="galleryItem 808"></a>
