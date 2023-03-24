@@ -56,11 +56,11 @@ get_header();
 											</div>
 											<div class="row">
 												<label>Phone:</label>
-												<span>(509) 922-8755</span>
+												<span>(509) 492-3392</span>
 											</div>
 											<div class="row">
 												<label>Email:</label>
-												<span><a href="mailto:sales@pctmfg.com">sales@pctmfg.com</a></span>
+												<span><a href="mailto:sales@precisionie.com">sales@precisionie.com</a></span>
 											</div>
 										</div>
 									</div>
