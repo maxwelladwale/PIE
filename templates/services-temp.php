@@ -58,7 +58,45 @@ get_header();
 
                         <div class="glax_tm_service_list_wrap">
 
-                            <ul>								<li>
+                            <ul>
+
+                                <li>
+
+                                    <div class="inner servicev">
+
+                                        <div class="list_image_wrap">
+
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC4215.webp"></div>
+
+                                        </div>
+
+                                        <div class="main_infos">
+
+                                            <div class="title_holder">
+
+                                                <h3>Machine Cutting</h3>
+
+                                                <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.003”</p>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="glax_tm_shape_read_more_wrap">
+
+                                            <div class="read_more_in">
+
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC4215.webp" data-group="0" class="galleryItem 101">See Gallery</a>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </li>
+
+                                <li>
 
                                     <div class="inner servicev">
 
@@ -373,6 +411,10 @@ get_header();
         </div>
 
     </div>
+    <!-- Machine Cutting -->
+
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0607_FullRes.webp" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0601_FullRes.webp" data-group="1" class="galleryItem 101"></a>
 
     <!-- Field Installation -->
 
