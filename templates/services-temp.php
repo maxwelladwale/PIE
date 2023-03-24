@@ -64,7 +64,7 @@ get_header();
 
                                         <div class="list_image_wrap">
 
-                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4300.jpg"></div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0704_FullRes.webp"></div>
 
                                         </div>
 
@@ -84,7 +84,7 @@ get_header();
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSCX.jpg" data-group="1" class="galleryItem 101">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0704_FullRes.webp" data-group="1" class="galleryItem 101">See Gallery</a>
 
                                             </div>
 
@@ -100,7 +100,7 @@ get_header();
 
                                         <div class="list_image_wrap">
 
-                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4286.jpg"></div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0594_FullRes.webp"></div>
 
                                         </div>
 
@@ -120,7 +120,7 @@ get_header();
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4286.jpg" data-group="2" class="galleryItem 202">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0594_FullRes.webp" data-group="2" class="galleryItem 202">See Gallery</a>
 
                                             </div>
 
@@ -136,7 +136,7 @@ get_header();
 
                                         <div class="list_image_wrap">
 
-                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4237.jpg"></div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0647_FullRes.webp"></div>
 
                                         </div>
 
@@ -156,7 +156,7 @@ get_header();
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4237.jpg" data-group="3" class="galleryItem 303">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0647_FullRes.webp" data-group="3" class="galleryItem 303">See Gallery</a>
 
                                             </div>
 
@@ -172,7 +172,7 @@ get_header();
 
                                         <div class="list_image_wrap">
 
-                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4215.jpg"></div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0996_FullRes.webp"></div>
 
                                         </div>
 
@@ -192,7 +192,7 @@ get_header();
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4215.jpg" data-group="4" class="galleryItem 404">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0996_FullRes.webp" data-group="4" class="galleryItem 404">See Gallery</a>
 
                                             </div>
 
@@ -208,7 +208,7 @@ get_header();
 
                                         <div class="list_image_wrap">
 
-                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4135.jpg"></div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8920.webp"></div>
 
                                         </div>
 
@@ -228,7 +228,7 @@ get_header();
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4135.jpg" data-group="5" class="galleryItem 505">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8920.webp" data-group="5" class="galleryItem 505">See Gallery</a>
 
                                             </div>
 
@@ -244,7 +244,7 @@ get_header();
 
                                         <div class="list_image_wrap">
 
-                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4252.jpg"></div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0475_FullRes.webp"></div>
 
 
 
@@ -266,7 +266,7 @@ get_header();
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4252.jpg" data-group="6" class="galleryItem 505">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0475_FullRes.webp" data-group="6" class="galleryItem 505">See Gallery</a>
 
                                             </div>
 
@@ -282,7 +282,7 @@ get_header();
 
                                         <div class="list_image_wrap">
 
-                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4425.jpg"></div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0431_FullRes.webp"></div>
 
 
 
@@ -304,7 +304,7 @@ get_header();
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4425.jpg" data-group="8" class="galleryItem 808">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0431_FullRes.webp" data-group="8" class="galleryItem 808">See Gallery</a>
 
                                             </div>
 
@@ -376,94 +376,29 @@ get_header();
 
     <!-- Field Installation -->
 
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4289.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4293.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4298.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4303.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4304.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4309.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4310.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4313.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4315.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4325.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4330.jpg" data-group="1" class="galleryItem 101"></a>
-
-    <!-- Custom Prototyping -->
-
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4097.jpg" data-group="2" class="galleryItem 202"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4099.jpg" data-group="2" class="galleryItem 202"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4117.jpg" data-group="2" class="galleryItem 202"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4120.jpg" data-group="2" class="galleryItem 202"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4121.jpg" data-group="2" class="galleryItem 202"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4139.jpg" data-group="2" class="galleryItem 202"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4167.jpg" data-group="2" class="galleryItem 202"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4389.jpg" data-group="2" class="galleryItem 202"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4399.jpg" data-group="2" class="galleryItem 202"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0607_FullRes.webp" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0601_FullRes.webp" data-group="1" class="galleryItem 101"></a>
 
     <!-- Industrial Equipment  -->
 
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4155.jpg" data-group="3" class="galleryItem 303"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4158.jpg" data-group="3" class="galleryItem 303"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4159.jpg" data-group="3" class="galleryItem 303"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4170.jpg" data-group="3" class="galleryItem 303"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4177.jpg" data-group="3" class="galleryItem 303"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4242.jpg" data-group="3" class="galleryItem 303"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4243.jpg" data-group="3" class="galleryItem 303"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4247.jpg" data-group="3" class="galleryItem 303"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4355.jpg" data-group="3" class="galleryItem 303"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4425.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0671_FullRes.webp" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/4992.webp" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/4996.webp" data-group="3" class="galleryItem 303"></a>
 
     <!-- Production Lines  -->
 
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4205.jpg" data-group="4" class="galleryItem 404"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4206.jpg" data-group="4" class="galleryItem 404"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4219.jpg" data-group="4" class="galleryItem 404"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4223.jpg" data-group="4" class="galleryItem 404"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4302.jpg" data-group="4" class="galleryItem 404"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4337.jpg" data-group="4" class="galleryItem 404"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4379.jpg" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1128_FullRes.webp" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1121_FullRes.webp" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1082_FullRes.webp" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1012_FullRes.webp" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1007_FullRes.webp" data-group="4" class="galleryItem 404"></a>
 
     <!-- Design and Drafting -->
 
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4103.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4105.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4106.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4113.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4114.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4116.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4129.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4130.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4133.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4187.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4193.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4203.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4281.jpg" data-group="5" class="galleryItem 505"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4411.jpg" data-group="5" class="galleryItem 505"></a>
-
     <!-- Custom Metal Design  -->
 
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4148.jpg" data-group="6" class="galleryItem 606"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4153.jpg" data-group="6" class="galleryItem 606"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4250.jpg" data-group="6" class="galleryItem 606"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4263.jpg" data-group="6" class="galleryItem 606"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4264.jpg" data-group="6" class="galleryItem 606"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4392.jpg" data-group="6" class="galleryItem 606"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4464.jpg" data-group="6" class="galleryItem 606"></a>
-
-
     <!-- Project Management-->
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4155.jpg" data-group="8" class="galleryItem 808"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4170.jpg" data-group="8" class="galleryItem 808"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4365.jpg" data-group="8" class="galleryItem 808"></a>
-    
-
-    <!-- Hardware & assembly -->
-
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4099.jpg" data-group="7" class="galleryItem 707"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4250.jpg" data-group="7" class="galleryItem 707"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4182.jpg" data-group="7" class="galleryItem 707"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4375.jpg" data-group="7" class="galleryItem 707"></a>
-
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0607_FullRes-1.webp" data-group="8" class="galleryItem 808"></a>
 
     <!-- /SERVICES -->
 
