@@ -5809,23 +5809,34 @@ iframe{
 /* new styles */
 
 .themesflat-row .span_1_of_6 {
-    width: 50%;
+    width: auto;
     float: left;
 }
 .themesflat-row.separator.drank > [class*="span_"]:first-child {
     border-left: 0px;
+	display: flex;
+    width: auto;
+	border-bottom: 1px solid #47A1DE;
+
 }
 .separator-solid .flat-content-wrap {
-    border-bottom: 1px solid #47A1DE;
-    padding-bottom: 22px;
-    margin-bottom: 18px;
+	padding-bottom: 100px;
+    width: 60vw;
+    height: 120px;
 }
 
 .separator-solid .flat-content-wrap:last-child {
     border-bottom: 0px;
     padding-bottom: 0px;
     margin: 0px;
+	width: fit-content;
 }
+
+.h-one{
+	border-right: 1px solid #47A1DE;
+}
+
+
 
 .flat-content-wrap .title {
     font-size: 18px;
@@ -5840,9 +5851,7 @@ iframe{
     margin: 0px;
     font-weight: 600;
 }
-.themesflat-row.separator.drank > [class*="span_"] {
-    border-left: 1px solid #47A1DE;
-}
+
 .flat-content-wrap.pd26 {
     padding-left: 26px;
 }
@@ -5953,6 +5962,7 @@ iframe{
   }
 
 
+
   
   .wpcf7-form {
 display: grid;
@@ -5962,6 +5972,8 @@ gap: 22px;
 .wpc7-form:hover{
 backround-color:#23387E !important;
 }
+
+
   
 .wpcf7-submit{
 	text-decoration: none;
@@ -6023,25 +6035,46 @@ width:100%;
 
 @media only screen and (max-width: 1199px) {
 	.themesflat-row.gutter-mobile .span_1_of_3 { width: 50%; }
+
+	.separator-solid .flat-content-wrap:last-child{
+		margin-bottom: 20px;
+	}
 }
 @media only screen and (max-width: 991px) {
 	.themesflat-row .span_1_of_3 { width: 50%; }
 	.themesflat-row.gutter-30 > [class*="col"]:nth-child(3) { clear: both; }
 
 	.themesflat-row.separator.drank > [class*="span_"],
-	.themesflat-row.separator.light > [class*="col"] { border-left: 1px solid #47A1DE; }
+	/* .themesflat-row.separator.light > [class*="col"] { border-left: 1px solid #47A1DE; } */
 
 	.themesflat-row .col.span_1_of_4 { width: 100%; }
 	.h-one p{
 		padding-bottom: 96px !important;
 	}
 
+	.flat-content-wrap.pd26 {
+		padding-left: 26px;
+		width: 84vw;
+	}
+
+	
+
+	
+	
 }
 @media only screen and (max-width: 767px) {
 	.themesflat-row .span_1_of_3,
 	.themesflat-row .span_1_of_6,
-  .themesflat-row.gutter-mobile .span_1_of_3 ,
+	.themesflat-row.gutter-mobile .span_1_of_3 ,
 	.themesflat-row .span_1_of_4 { width: 100%; }
+	.themesflat-row.separator.drank > [class*="span_"]:first-child {
+		display: flex;
+		flex-direction: column;
+		border: none;
+		/* width: 100%; */
+		margin-bottom: 45px;
+	}
+
 	
 }
 @media only screen and (max-width: 767px) {

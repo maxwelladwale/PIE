@@ -6,6 +6,8 @@
 .clearfix{
   *zoom: 1;
   clear:both;
+  display: flex;
+  flex-direction: column;
 }
 .clearfix:before,
 .clearfix:after {
