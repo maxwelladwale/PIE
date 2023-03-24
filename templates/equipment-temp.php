@@ -10,7 +10,7 @@
 
 					<div class="title_holder">
 
-						<h3>Products</h3>
+						<h3>Equipments</h3>
 
 					</div>
 
@@ -22,7 +22,7 @@
 
 							<li class="shape"><span></span></li>
 
-							<li><span>Products</span></li>
+							<li><span>Equipments</span></li>
 
 						</ul>
 
@@ -47,12 +47,10 @@
 					</div>
 
 					<ul class="glax_tm_portfolio_list gallery_zoom">
-
-                        
-
+<!--Dumpers-->
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06121.webp" data-group="2" class="galleryItem structure">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0474_FullRes.webp" data-group="2" class="galleryItem dumpers">
 
                                 <div class="inner" id="dynamic-gallery-demo">
 
@@ -60,23 +58,14 @@
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06121.webp"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0474_FullRes.webp"></div>
 
                                         <div class="overlay_color"></div>
 
                                         <div class="title_holder">
 
-                                            <h3>Structures</h3>
+                                            <h3>Dumpers</h3>
 
-                                            <div class="glax_tm_view_more_wrap">
-
-                                                <span class="text">
-
-                                                    Build to drawing or custom designed for any size or type of structure
-
-                                                </span>    
-
-                                            </div>
 
                                         </div>
 
@@ -88,11 +77,10 @@
 
                         </li>
 
-
-
+<!--Raw Product Conveyors-->
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0602.webp" data-group="3" class="galleryItem catwalks">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1012_FullRes.webp" data-group="3" class="galleryItem rawproductconveyors">
 
                                 <div class="inner" id="dynamic-gallery-demo">
 
@@ -100,23 +88,13 @@
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0602.webp"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1012_FullRes.webp"></div>
 
                                         <div class="overlay_color"></div>
 
                                         <div class="title_holder">
 
-                                            <h3>Catwalks</h3>
-
-                                            <div class="glax_tm_view_more_wrap">
-
-                                                <span class="text">
-
-                                                    Custom designed access platforms of any shape, size, and material type built to customer needs and building requirements
-
-                                                </span>    
-
-                                            </div>
+                                            <h3>Raw Product Conveyors</h3>
 
                                         </div>
 
@@ -128,11 +106,10 @@
 
                         </li>
 
-
-
+<!--wash Systems-->
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10801.webp" data-group="4" class="galleryItem conveyor">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0499_FullRes.webp" data-group="4" class="galleryItem washsystems">
 
                                 <div class="inner" id="dynamic-gallery-demo">
 
@@ -140,23 +117,13 @@
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10801.webp"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0499_FullRes.webp"></div>
 
                                         <div class="overlay_color"></div>
 
                                         <div class="title_holder">
 
-                                            <h3>Conveyors</h3>
-
-                                            <div class="glax_tm_view_more_wrap">
-
-                                                <span class="text">
-
-                                                    Conveyance solutions from hygienic design to raw product handling and packaging
-
-                                                </span>    
-
-                                            </div>
+                                            <h3>Wash Systems</h3>
 
                                         </div>
 
@@ -168,11 +135,10 @@
 
                         </li>
 
-
-
+<!--Choppers-->
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC08851.webp" data-group="5" class="galleryItem flumes">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0475_FullRes-1.webp" data-group="5" class="galleryItem choppers">
 
                                 <div class="inner" id="dynamic-gallery-demo">
 
@@ -180,23 +146,13 @@
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC08851.webp"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0475_FullRes-1.webp"></div>
 
                                         <div class="overlay_color"></div>
 
-                                        <div class="title_holder" style="left:20%;">
+                                        <div class="title_holder" >
 
-                                            <h3>Flumes</h3>
-
-                                            <div class="glax_tm_view_more_wrap">
-
-                                                <span class="text">
-
-                                                    Water transport solutions for food and other product
-
-                                                </span>    
-
-                                            </div>
+                                            <h3>Choppers</h3>
 
                                         </div>
 
@@ -208,11 +164,10 @@
 
                         </li>
 
-
-
+<!--Destoning-->
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10511.webp" data-group="6" class="galleryItem sanitary">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8848.webp" data-group="6" class="galleryItem destoning">
 
                                 <div class="inner" id="dynamic-gallery-demo">
 
@@ -220,23 +175,13 @@
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10511.webp"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8848.webp"></div>
 
                                         <div class="overlay_color"></div>
 
                                         <div class="title_holder">
 
-                                            <h3>Sanitary Piping</h3>
-
-                                            <div class="glax_tm_view_more_wrap">
-
-                                                <span class="text">
-
-                                                    Custom layout and design of sanitary piping for juice, wine, and spirits processing
-
-                                                </span>    
-
-                                            </div>
+                                            <h3>Destoning</h3>
 
                                         </div>
 
@@ -248,7 +193,92 @@
 
                         </li>
 
+<!--Negative Air Systems-->
+                        <li class="architecture" >
 
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0447_FullRes.webp" data-group="7" class="galleryItem negativeairsystems">
+
+                                <div class="inner" id="dynamic-gallery-demo">
+
+                                    <div class="image_wrap">
+
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
+
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0447_FullRes.webp"></div>
+
+                                        <div class="overlay_color"></div>
+
+                                        <div class="title_holder">
+
+                                            <h3>Negative Air Systems</h3>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </a>
+
+                        </li>
+
+<!--Packaging Equipment-->
+                        <li class="architecture" >
+
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0545_FullRes.webp" data-group="8" class="galleryItem packingequipment">
+
+                                <div class="inner" id="dynamic-gallery-demo">
+
+                                    <div class="image_wrap">
+
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
+
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0545_FullRes.webp"></div>
+
+                                        <div class="overlay_color"></div>
+
+                                        <div class="title_holder">
+
+                                            <h3>Packaging Equipment</h3>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </a>
+
+                        </li>
+
+<!--Integrated Control Systems-->
+                        <li class="architecture" >
+
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0489_FullRes.webp" data-group="9" class="galleryItem integratedcontrolsystems">
+
+                                <div class="inner" id="dynamic-gallery-demo">
+
+                                    <div class="image_wrap">
+
+                                        <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
+
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0489_FullRes.webp"></div>
+
+                                        <div class="overlay_color"></div>
+
+                                        <div class="title_holder">
+
+                                            <h3>Integrated Control Systems</h3>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </a>
+
+                        </li>
 
 					</ul>
 
@@ -260,75 +290,114 @@
 
 		
 
-		<!-- /PROJECTS -->
+		<!-- /Equipments -->
 
 
 
         <!-- gallery items here -->
 
+        <!--Dumpers-->
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0475_FullRes.webp" data-group="2" class="galleryItem dumpers"></a>
+
+        <!--Raw Product Conveyors-->
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0996_FullRes.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0995_FullRes.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1121_FullRes.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1097_FullRes.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Infeed-Transition.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Conveyors.mp4" data-group="3" class="galleryItem popup-player rawproductconveyors">
+            <video preload="false" poster="/videos/01.png">
+                <source src="/videos/01.mp4" type="video/mp4">
+            </video>
+        </a>
 
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06231.webp" data-group="2" class="galleryItem structure"></a> 
+        <div data-group="3" class="galleryItem rawproductconveyors"><iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe></div>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06281.webp" data-group="2" class="galleryItem structure"></a>
+        <!--Wash Systems-->
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06291.webp" data-group="2" class="galleryItem structure"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0498_FullRes.webp" data-group="4" class="galleryItem washsystems"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06471.webp" data-group="2" class="galleryItem structure"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0505_FullRes.webp" data-group="4" class="galleryItem washsystems"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06711-1.webp" data-group="2" class="galleryItem structure"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0507_FullRes.webp" data-group="4" class="galleryItem washsystems"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10201.webp" data-group="2" class="galleryItem structure"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0510_FullRes.webp" data-group="4" class="galleryItem washsystems"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10211.webp" data-group="2" class="galleryItem structure"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0514_FullRes.webp" data-group="4" class="galleryItem washsystems"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10231.webp" data-group="2" class="galleryItem structure"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10321.webp" data-group="2" class="galleryItem structure"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10881-1.webp" data-group="2" class="galleryItem structure"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0529_FullRes.webp" data-group="4" class="galleryItem washsystems"></a>
 
 
+    <!--Choppers-->
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0607.webp" data-group="3" class="galleryItem catwalks"></a> 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Medium-Chopper-Door-Open.webp" data-group="5" class="galleryItem choppers"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Medium-Chopper-Exterior.webp" data-group="5" class="galleryItem choppers"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06101.webp" data-group="3" class="galleryItem catwalks"></a>
+        <!--Destoning-->
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06711.webp" data-group="3" class="galleryItem catwalks"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8852.webp" data-group="6" class="galleryItem destoning"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10051.webp" data-group="3" class="galleryItem catwalks"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8847.webp" data-group="6" class="galleryItem destoning"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10191.webp" data-group="3" class="galleryItem catwalks"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0429_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10881.webp" data-group="3" class="galleryItem catwalks"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0430_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
-        
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0436_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10821.webp" data-group="4" class="galleryItem conveyor"></a> 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0443_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/IMG_6023.webp" data-group="4" class="galleryItem conveyor"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0733_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0745_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0443_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC08911.webp" data-group="5" class="galleryItem flumes"></a> 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1000_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
-        <a href="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/DSC09081.webp" data-group="5" class="galleryItem flumes"></a> 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1001_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1003_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1007_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10551.webp" data-group="6" class="galleryItem sanitary"></a> 
+        <!--Negative Air Systems-->
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10591.webp" data-group="6" class="galleryItem sanitary"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0443_FullRes.webp" data-group="7" class="galleryItem negativeairsystems"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10631.webp" data-group="6" class="galleryItem sanitary"></a>
+        <!--Packaging Equipment-->
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0561_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10641.webp" data-group="6" class="galleryItem sanitary"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0567_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10681.webp" data-group="6" class="galleryItem sanitary"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0569_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/4996.webp" data-group="6" class="galleryItem sanitary"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0570_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0594_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0538_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0539_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0541_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0549_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0549_FullRes.webp" data-group="8" class="galleryItem packagingequipment"></a>
+
+        <!--Integrated Control Systems-->
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0487_FullRes.webp" data-group="9" class="galleryItem integratedcoolingsystems"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0490_FullRes.webp" data-group="9" class="galleryItem integratedcoolingsystems"></a>
 
 <?php
 
