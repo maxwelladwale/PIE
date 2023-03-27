@@ -171,6 +171,7 @@
                                 </div>
 
                             </a>
+
                             <!--Choppers Gallery-->
                             <div class="gallery">
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Medium-Chopper-Door-Open.webp" data-group="5" class="galleryItem choppers"></a>
@@ -332,6 +333,8 @@
         <!--Destoning-->
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8852.webp" data-group="6" class="galleryItem destoning"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/8841.webp" data-group="6" class="galleryItem destoning"></a>
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8847.webp" data-group="6" class="galleryItem destoning"></a>
 

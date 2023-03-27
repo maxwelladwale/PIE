@@ -411,10 +411,6 @@ get_header();
         </div>
 
     </div>
-    <!-- Machine Cutting -->
-
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0607_FullRes.webp" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0601_FullRes.webp" data-group="1" class="galleryItem 101"></a>
 
     <!-- Field Installation -->
 
