@@ -35,8 +35,8 @@
                                             </div>
                                             <div class="description">
                                                 <p>PIE is an industrial equipment design, fabrication, and integration company </p>
-                                                <p>With superior engineering services and ability to integrate multiple pieces of technology into one line, </p>
-                                                <p>PIE provides universal services from design to delivery. PIE’s industrial lines can receive and palletize any product for a ready-to-ship solution</p>
+                                                <p>With superior engineering services and ability to integrate multiple pieces of technology into one line,
+                                                PIE provides universal services from design to delivery. PIE’s industrial lines can receive and palletize any product for a ready-to-ship solution</p>
                                             </div>
                                         </div>
                                         <div class="rightbox">
@@ -78,6 +78,7 @@
                                     <div class="title">2013 </div>
                                     <p style="padding-bottom: 32px;">PIE founded in Spokane, Washington</p>
                                 </div>
+                                <span style="border-left: 1px solid #47A1DE;" ></span>
                                 <div class="flat-content-wrap pd26 h-two">
                                     <div class="title">2018</div>
                                     <p>Patrick Flumerfelt acquires SMK Tri-Cities, bringing field installation synergies to PIE and gaining additional fabrication capabilities</p>
@@ -98,7 +99,7 @@
                         <div class="">
 
                             <div class="leader-det">
-                                <h3 class="title" style="text-align: center;"> PIE Leadership</h3>
+                                <h3 class="title" style="text-align: center;">  Leadership</h3>
                                 <div class="all-leader-cont">
                                     <div class="single-leader-cont">
 

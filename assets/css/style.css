@@ -5832,9 +5832,9 @@ iframe{
 	width: fit-content;
 }
 
-.h-one{
-	border-right: 1px solid #47A1DE;
-}
+/* .h-two{
+	border-left: 1px solid #47A1DE;
+} */
 
 
 
@@ -5854,6 +5854,8 @@ iframe{
 
 .flat-content-wrap.pd26 {
     padding-left: 26px;
+	width: 57vw;
+	margin-bottom: 20px;
 }
 
 
