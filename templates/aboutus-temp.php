@@ -35,8 +35,8 @@
                                             </div>
                                             <div class="description">
                                                 <p>PIE is an industrial equipment design, fabrication, and integration company </p>
-                                                <p>With superior engineering services and ability to integrate multiple pieces of technology into one line, </p>
-                                                <p>PIE provides universal services from design to delivery. PIE’s industrial lines can receive and palletize any product for a ready-to-ship solution</p>
+                                                <p>With superior engineering services and ability to integrate multiple pieces of technology into one line,
+                                                PIE provides universal services from design to delivery. PIE’s industrial lines can receive and palletize any product for a ready-to-ship solution</p>
                                             </div>
                                         </div>
                                         <div class="rightbox">
