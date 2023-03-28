@@ -109,6 +109,12 @@
 
                     </div>
 
+                    <div class="image_wrap swiper-slide">
+
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0481_FullRes-1.webp"></div>
+
+                    </div>
+
                 </div>
 
             </div>
