@@ -99,10 +99,8 @@
                                     </div>
 
                                 </div>
+</a>
 
-                            </div>
-
-                        </a>
                         <!--Raw Product Conveyors Gallery-->
 
                         <div class="gallery">
@@ -168,7 +166,8 @@
 
                                 </div>
 
-                            </div>
+                            </a>
+
 
                         </a>
 

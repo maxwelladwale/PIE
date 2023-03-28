@@ -81,15 +81,14 @@
 
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0481_FullRes.webp" data-group="2" class="galleryItem 282">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0481_FullRes-1.webp" data-group="2" class="galleryItem 282">
 
                                 <div class="inner" id="dynamic-gallery-demo">
-
                                     <div class="image_wrap">
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0481_FullRes.webp"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0481_FullRes-1.webp"></div>
 
                                         <div class="overlay_color"></div>
 

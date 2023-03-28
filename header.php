@@ -42,8 +42,8 @@
 				<div class="left_part_wrap">
 					<div class="share_wrap">
 						<ul>
-							<li><a href="https://www.facebook.com/Precision-Cutting-Technologies-1017001788322642/"><i class="xcon-facebook"></i></a></li>
-							<li><a href="https://www.linkedin.com/company/precision-cutting-technologies/"><i class="xcon-linkedin"></i></a></li>
+							<!-- <li><a href="https://www.facebook.com/Precision-Cutting-Technologies-1017001788322642/"><i class="xcon-facebook"></i></a></li> -->
+							<li><a href="https://www.linkedin.com/company/precision-industrial-equipment-llc/"><i class="xcon-linkedin"></i></a></li>
 						</ul>
 					</div>
 					<div class="language">
@@ -117,8 +117,8 @@
 						</div> -->
 						<div class="mobile_socials_wrap">
 							<ul>
-								<li><a href="https://www.facebook.com/Precision-Cutting-Technologies-1017001788322642/"><i class="xcon-facebook"></i></a></li>
-								<li><a href="https://www.linkedin.com/company/precision-cutting-technologies/"><i class="xcon-linkedin"></i></a></li>
+								<!-- <li><a href="https://www.facebook.com/Precision-Cutting-Technologies-1017001788322642/"><i class="xcon-facebook"></i></a></li> -->
+								<li><a href="https://www.linkedin.com/company/precision-industrial-equipment-llc/"><i class="xcon-linkedin"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -151,7 +151,7 @@
 					<li><a href="<?php get_template_directory_uri();?>/services">Services</a></li>
 					<li><a href="<?php get_template_directory_uri();?>/equipment">Equipment</a></li>
 					<li><a href="<?php get_template_directory_uri();?>/projects">Projects</a></li>
-
+					<li><a href="<?php get_template_directory_uri();?>/contact-us">Contact Us</a></li>
 				</ul>
 			</div>
 			<!-- /MENU LIST -->
