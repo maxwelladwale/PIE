@@ -111,7 +111,7 @@
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1121_FullRes.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1097_FullRes.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Infeed-Transition.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
-                                <a href="http://pie.test/wp-content/uploads/2023/03/Conveyors.mp4" class="mfp-iframe"></a>
+                                <a href="http://pie.test/wp-content/uploads/2023/03/Conveyors2.mp4" class="mfp-iframe"></a>
                             </div>
 
                         </li>
@@ -175,7 +175,7 @@
                             <div class="gallery">
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Medium-Chopper-Door-Open.webp" data-group="5" class="galleryItem choppers"></a>
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Medium-Chopper-Exterior.webp" data-group="5" class="galleryItem choppers"></a>
-                                <a href="http://pie.test/wp-content/uploads/2023/03/Conveyors.mp4" class="mfp-iframe"></a>
+                                <a href="http://pie.test/wp-content/uploads/2023/03/Conveyors2.mp4" class="mfp-iframe"></a>
                             </div>
                         </li>
 
