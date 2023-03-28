@@ -349,8 +349,6 @@
 
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0745_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0443_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
-
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1000_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1001_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
