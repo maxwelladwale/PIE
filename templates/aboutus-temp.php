@@ -111,7 +111,7 @@
                                                 In 2018, Mr. Flumerfelt acquired SMK Tri-Cities to synergize field installation and gain additional fabrication capabilities. Mr. Flumerfelt guided SMK to double digit growth year over year until he divested his majority share in 2022.
                                                 Mr. Flumerfelt received a BS in Mechanical Engineering from Washington State University.
                                             </p>
-                                            <a href="mailto:jporter@smktricities.com">
+                                            <a href="mailto:pflumerfelt@precisionie.com">
                                                 <svg style="width: 32px; height: 32px; color: #23387E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                                     <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
                                                 </svg>
@@ -129,7 +129,7 @@
                                                 Prior to joining the Dahlonega Group, Mr. Alves was the Director of Client Relations of EcoDigital, an industry leader in digital signage services and solutions. Before his time with EcoDigital, Mr. Alves was the Manager of Inside Sales at Oracle and Front Porch Digital. During his tenure at Front Porch Digital, Oracle, and EcoDigital, he generated millions of dollars in revenue from the support renewal stream.
                                                 Mr. Alves received a BA in Telecommunications from the University of Nebraska - Kearney.
                                             </p>
-                                            <a href="mailto:jporter@smktricities.com">
+                                            <a href="mailto:dalves@smktricities.com">
                                                 <svg style="width: 32px; height: 32px; color: #23387E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                                     <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
                                                 </svg>

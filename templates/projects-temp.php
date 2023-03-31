@@ -69,7 +69,7 @@
                                         <div class="title_holder">
                                             <h3>Packaged Apple Slices</h3>
                                             <div class="glax_tm_view_more_wrap">
-                                                <span class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum</span>
+                                                <span class="text"></span>
                                             </div>
                                         </div>
                                     </div>
@@ -98,7 +98,7 @@
 
                                             <div class="glax_tm_view_more_wrap">
 
-                                                <span class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum</span>    
+                                                <span class="text"></span>    
 
                                             </div>
 
@@ -134,7 +134,7 @@
 
                                             <div class="glax_tm_view_more_wrap">
 
-                                                <span class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum</span>    
+                                                <span class="text"></span>    
 
                                             </div>
 
@@ -170,7 +170,7 @@
 
                                             <div class="glax_tm_view_more_wrap">
 
-                                                <span class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum</span>    
+                                                <span class="text"></span>    
 
                                             </div>
 
@@ -206,7 +206,7 @@
 
                                             <div class="glax_tm_view_more_wrap">
 
-                                                <span class="text">Full-service installation of potato processing and packaging lines as well as infrastructure upgrades and facility maintenance</span>    
+                                                <span class="text"></span>
 
                                             </div>
 
@@ -240,7 +240,7 @@
 
                                             <div class="glax_tm_view_more_wrap">
 
-                                                <span class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum</span>    
+                                                <span class="text"></span>    
 
                                             </div>
 

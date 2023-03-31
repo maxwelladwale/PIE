@@ -473,7 +473,7 @@
                                         </div>
                                     </li>
                                 </ul> -->
-                                <iframe src="https://player.vimeo.com/video/459186412" width="950" height="480" frameborder="0"></iframe>
+                                <iframe src="<?php echo esc_url( get_template_directory_uri() );?>/assets/video/2029498504.mp4" frameborder="0" allow="autoplay" style="height:370px"></iframe>
                             </div>
                         </div>
                     </div>
