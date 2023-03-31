@@ -434,7 +434,7 @@
                         </div>
                         <div class="rightbox fn_w_sminibox">
                             <div class="constructify_fn_sticky_section">
-                                <ul>
+                                <!-- <ul>
                                     <li>
                                         <div class="inner">
                                             <div class="test-main" >
@@ -472,7 +472,8 @@
                                             </div>
                                         </div>
                                     </li>
-                                </ul>
+                                </ul> -->
+                                <iframe src="https://player.vimeo.com/video/459186412" width="950" height="480" frameborder="0"></iframe>
                             </div>
                         </div>
                     </div>
