@@ -111,7 +111,7 @@
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1121_FullRes.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1097_FullRes.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Infeed-Transition.webp" data-group="3" class="galleryItem rawproductconveyors"></a>
-                                <a href="http://pie.test/wp-content/uploads/2023/03/Conveyors2.mp4" class="mfp-iframe"></a>
+                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Conveyors2.mp4" class="mfp-iframe"></a>
                             </div>
 
                         </li>
@@ -171,11 +171,12 @@
                                 </div>
 
                             </a>
+
                             <!--Choppers Gallery-->
                             <div class="gallery">
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Medium-Chopper-Door-Open.webp" data-group="5" class="galleryItem choppers"></a>
                                 <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Medium-Chopper-Exterior.webp" data-group="5" class="galleryItem choppers"></a>
-                                <a href="http://pie.test/wp-content/uploads/2023/03/Conveyors2.mp4" class="mfp-iframe"></a>
+                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/Conveyors2.mp4" class="mfp-iframe"></a>
                             </div>
                         </li>
 
@@ -333,6 +334,8 @@
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8852.webp" data-group="6" class="galleryItem destoning"></a>
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/8841.webp" data-group="6" class="galleryItem destoning"></a>
+
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/D79T8847.webp" data-group="6" class="galleryItem destoning"></a>
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0429_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
@@ -346,9 +349,7 @@
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0733_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0745_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0443_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
-
+        
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1000_FullRes.webp" data-group="6" class="galleryItem destoning"></a>
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC1001_FullRes.webp" data-group="6" class="galleryItem destoning"></a>

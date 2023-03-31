@@ -370,7 +370,7 @@ get_header();
 
                                     <div class="inner">
 
-                                        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/SMK_brochure_download.pdf"  style="text-decoration:none;">
+                                        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/PIE-Brochure-2023.pdf"  style="text-decoration:none;">
 
 
 
@@ -411,10 +411,6 @@ get_header();
         </div>
 
     </div>
-    <!-- Machine Cutting -->
-
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0607_FullRes.webp" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC0601_FullRes.webp" data-group="1" class="galleryItem 101"></a>
 
     <!-- Field Installation -->
 
