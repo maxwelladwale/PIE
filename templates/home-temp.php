@@ -14,7 +14,7 @@
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0704_FullRes-min-min.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0499_FullRes.webp"></div>
 
                         <div class="swiper_content">
 
@@ -58,7 +58,7 @@
                     <div class="image_wrap swiper-slide">
 
                         <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/_DSC0474_FullRes-min-min.webp"></div>
-
+`
                     </div>
 
                     <div class="image_wrap swiper-slide">
@@ -69,7 +69,7 @@
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0499_FullRes.webp"></div>
+                            <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC0704_FullRes-min-min.webp"></div>
 
                     </div>
 
@@ -417,70 +417,70 @@
 
     
     <!-- TESTIMONIALS-->
-    <div class="glax_tm_section">
-        <div class="glax_tm_home_project_wrapper_all">
-            <div class="container">
-                <div class="glax_tm_twice_box_wrap fn_w_sminiboxes">
-                    <div class="inner_box">
-                        <div class="leftbox project fn_w_sminibox">
-                            <div class="constructify_fn_sticky_section">
-                                <div class="title_holder">
-                                    <h3>Customer Quotes</h3>
-                                </div>
-                                <div class="description">
-                                    <p>Companies around the nation rely on PIE for their industrial equipment design, fabrication, and integration needs</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="rightbox fn_w_sminibox">
-                            <div class="constructify_fn_sticky_section">
-                                <!-- <ul>
-                                    <li>
-                                        <div class="inner">
-                                            <div class="test-main" >
-                                                <div class="title_holder-test">
-                                                    <p style="color:white";>
-                                                        "Precision Cutting Technologies provides top quality parts and excellent service, order after order. Their dependability makes my job much easier.” - Purchasing Manager - Medical Equipment Industry
-
-                                                    </p>
-                                                    
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="inner">
-                                            <div class="test-main" >
-                                                <div class="title_holder-test">
-                                                    <p style="color:white";>
-                                                    "Precision Cutting Technologies’ quick response time has helped us with several development projects allowing a faster transition to production." – R&D Technical Specialist - Electronic Materials Provider
-                                                    </p>
-                                                    
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="inner">
-                                            <div class="test-main" >
-                                                <div class="title_holder-test">
-                                                    <p style="color:white";>
-                                                        "I spearheaded my organizations’ first outsourcing endeavor. Internally this was met with mixed emotions, but Precision Cutting Technologies quickly rose to the top in Project Management / Coordination, quality of work and delivery time. Before I was asked not to outsource parts, now I’m asked for Precision Cutting Technologies parts by name!”  – Production Engineer - Commercial Appliance OEM
-                                                    </p>
-                                                    
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul> -->
-                                <iframe src="https://player.vimeo.com/video/459186412" width="950" height="480" frameborder="0"></iframe>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<!--    <div class="glax_tm_section">-->
+<!--        <div class="glax_tm_home_project_wrapper_all">-->
+<!--            <div class="container">-->
+<!--                <div class="glax_tm_twice_box_wrap fn_w_sminiboxes">-->
+<!--                    <div class="inner_box">-->
+<!--                        <div class="leftbox project fn_w_sminibox">-->
+<!--                            <div class="constructify_fn_sticky_section">-->
+<!--                                <div class="title_holder">-->
+<!--                                    <h3>Customer Quotes</h3>-->
+<!--                                </div>-->
+<!--                                <div class="description">-->
+<!--                                    <p>Companies around the nation rely on PIE for their industrial equipment design, fabrication, and integration needs</p>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <div class="rightbox fn_w_sminibox">-->
+<!--                            <div class="constructify_fn_sticky_section">-->
+<!--                                <!-- <ul>-->
+<!--                                    <li>-->
+<!--                                        <div class="inner">-->
+<!--                                            <div class="test-main" >-->
+<!--                                                <div class="title_holder-test">-->
+<!--                                                    <p style="color:white";>-->
+<!--                                                        "Precision Cutting Technologies provides top quality parts and excellent service, order after order. Their dependability makes my job much easier.” - Purchasing Manager - Medical Equipment Industry-->
+<!---->
+<!--                                                    </p>-->
+<!--                                                    -->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <div class="inner">-->
+<!--                                            <div class="test-main" >-->
+<!--                                                <div class="title_holder-test">-->
+<!--                                                    <p style="color:white";>-->
+<!--                                                    "Precision Cutting Technologies’ quick response time has helped us with several development projects allowing a faster transition to production." – R&D Technical Specialist - Electronic Materials Provider-->
+<!--                                                    </p>-->
+<!--                                                    -->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <div class="inner">-->
+<!--                                            <div class="test-main" >-->
+<!--                                                <div class="title_holder-test">-->
+<!--                                                    <p style="color:white";>-->
+<!--                                                        "I spearheaded my organizations’ first outsourcing endeavor. Internally this was met with mixed emotions, but Precision Cutting Technologies quickly rose to the top in Project Management / Coordination, quality of work and delivery time. Before I was asked not to outsource parts, now I’m asked for Precision Cutting Technologies parts by name!”  – Production Engineer - Commercial Appliance OEM-->
+<!--                                                    </p>-->
+<!--                                                    -->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </li>-->
+<!--                                </ul> -->-->
+<!--                             <iframe src="https://player.vimeo.com/video/459186412" width="950" height="480" frameborder="0"></iframe>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
     <!-- /TESTIMONAIAL -->
 
 <?php get_footer(); ?>

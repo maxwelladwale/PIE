@@ -76,7 +76,7 @@
                             <div class="span_1_of_6 separator-solid">
                                 <div class="flat-content-wrap pd26 h-one">
                                     <div class="title">2013 </div>
-                                    <p style="padding-bottom: 32px;">PIE founded in Spokane, Washington</p>
+                                    <p style="padding-bottom: 32px;">PIE founded in Selah, Washington</p>
                                 </div>
                                 <span style="border-left: 1px solid #47A1DE;" ></span>
                                 <div class="flat-content-wrap pd26 h-two">
